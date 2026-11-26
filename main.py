@@ -1,6 +1,8 @@
 """Entry for make.fun: Pigeon Pitch, One Line.
 
 Writes one city-pigeon startup pitch to entry.txt.
+
+Delivered in the pigeon's own voice, rooftops and all.
 """
 import os
 
